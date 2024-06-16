@@ -307,6 +307,4 @@ git clone https://github.com/GuardianWatch/guardianwatch_app
 
 ### [BTmapping](https://github.com/GuardianWatch/BTmapping)
 
-### PPT
-
-### YouTube
+### [YouTube](https://www.youtube.com/watch?v=Sj-XykZ5lV8)
